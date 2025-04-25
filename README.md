@@ -88,14 +88,6 @@ This project uses data from Zomato under their [API Terms of Use](https://develo
 
 ---
 
-## 📬 Contact
-
-For issues, suggestions, or feature requests:
-- Open an issue on GitHub
-- Email: **data-team@example.com**
-
----
-
 ## 🙏 Acknowledgments
 
 - [Zomato Developer Platform](https://developers.zomato.com) for API access
